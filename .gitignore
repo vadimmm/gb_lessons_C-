@@ -1,5 +1,5 @@
-**/.git
-**/bin
-**/obJ
+**/.git/*
+**/bin/*
+**/obJ/*
 *.csproj
 .gitignore
