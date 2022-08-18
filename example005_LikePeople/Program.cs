@@ -2,7 +2,8 @@
 Console.Write("Please, write your username: ");
 string username = Console.ReadLine();
 
-if (username == likeUserName)
+if(username.ToLower() == likeUserName.ToLower())
+//if(username == likeUserName)
 {  
     Console.WriteLine("Ура, это же " + likeUserName + "!!!");
 }
