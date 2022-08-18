@@ -1,0 +1,15 @@
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\bin\Debug\net6.0\example003_some.exe
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\bin\Debug\net6.0\example003_some.deps.json
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\bin\Debug\net6.0\example003_some.runtimeconfig.json
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\bin\Debug\net6.0\example003_some.dll
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\bin\Debug\net6.0\example003_some.pdb
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\obj\Debug\net6.0\example003_some.csproj.AssemblyReference.cache
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\obj\Debug\net6.0\example003_some.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\obj\Debug\net6.0\example003_some.AssemblyInfoInputs.cache
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\obj\Debug\net6.0\example003_some.AssemblyInfo.cs
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\obj\Debug\net6.0\example003_some.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\obj\Debug\net6.0\example003_some.dll
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\obj\Debug\net6.0\refint\example003_some.dll
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\obj\Debug\net6.0\example003_some.pdb
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\obj\Debug\net6.0\example003_some.genruntimeconfig.cache
+C:\Users\Vadim\gb.7is.su\Цифровые профессии - Программист Python\1 четверть\2022 08 16 л - Знакомство с языками программирования C#\work\example003_some\obj\Debug\net6.0\ref\example003_some.dll
